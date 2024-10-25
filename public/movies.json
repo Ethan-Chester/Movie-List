@@ -1,0 +1,53 @@
+{
+    "Interstellar": {
+      "desc": "A team of explorers travel through a wormhole in space to save humanity.",
+      "rating": "5 stars",
+      "runtime": "169 minutes"
+    },
+    "The Dark Knight": {
+      "desc": "Batman faces the Joker, a criminal mastermind bringing Gotham City to chaos.",
+      "rating": "5 stars",
+      "runtime": "152 minutes"
+    },
+    "Blade Runner 2049": {
+      "desc": "A young blade runner discovers a secret that could unravel society.",
+      "rating": "5 stars",
+      "runtime": "164 minutes"
+    },
+    "Arrival": {
+      "desc": "A linguist works with the military to communicate with alien visitors.",
+      "rating": "4.5 stars",
+      "runtime": "116 minutes"
+    },
+    "Mad Max: Fury Road": {
+      "desc": "In a post-apocalyptic wasteland, a drifter teams up with a rebel warrior to escape tyranny.",
+      "rating": "4.5 stars",
+      "runtime": "120 minutes"
+    },
+    "The Prestige": {
+      "desc": "Two rival magicians compete in a deadly battle of wits.",
+      "rating": "5 stars",
+      "runtime": "130 minutes"
+    },
+    "Shutter Island": {
+      "desc": "A U.S. Marshal investigates a mysterious disappearance at a remote mental institution.",
+      "rating": "4.5 stars",
+      "runtime": "138 minutes"
+    },
+    "Ex Machina": {
+      "desc": "A young programmer is selected to participate in a groundbreaking experiment in AI.",
+      "rating": "4.5 stars",
+      "runtime": "108 minutes"
+    },
+    "Gravity": {
+      "desc": "Two astronauts must work together to survive after an accident leaves them adrift in space.",
+      "rating": "4 stars",
+      "runtime": "91 minutes"
+    },
+    "Dune": {
+      "desc": "A young man must navigate political intrigue and an alien desert planet to fulfill his destiny.",
+      "rating": "4.5 stars",
+      "runtime": "155 minutes"
+    }
+  }
+  
